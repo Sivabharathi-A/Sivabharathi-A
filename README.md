@@ -1,4 +1,4 @@
-## Hi, I'm Siva Bharathi🪄
+## Hi, I'm Siva Bharathi 🧩
 - 💻 Computer science and engineering student
 - 🌱 I enjoy building projects and turning ideas into working software
 - 🎯 Exploring full-stack development
